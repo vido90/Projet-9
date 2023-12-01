@@ -311,6 +311,8 @@ input[type="submit"] {
 	#contact .container {
 		flex-direction: column;
 	}
+
+
 	#contact .picture.right {
 		margin-top: 1em;
 	}
